@@ -1,0 +1,30 @@
+{
+  "name": "censam/laraAjax",
+  "description": "To manage your crud in laravel 5.1",
+  "homepage": "http://github.com/censam/laraAjax",
+  "keywords": [],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "sampath gunasekara",
+      "email": "wgsampath@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.5.0",
+    "illuminate/support": "~5.1"
+  },
+  "require-dev": {
+    "phpspec/phpspec": "~2.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "censam\\LaraAjax\\": "src/"
+    }
+  },
+  "extra": {
+        "branch-alias": {
+            "dev-master": "3.0.x-dev"
+        }
+    }
+}
