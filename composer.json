@@ -1,6 +1,6 @@
 {
   "name": "censam/lara-ajax",
-  "description": "jax with laravel",
+  "description": "To manage your crud in laravel 5.1",
   "homepage": "http://github.com/censam/lara-ajax",
   "keywords": [],
   "license": "MIT",
@@ -21,10 +21,5 @@
     "psr-4": {
       "censam\\LaraAjax\\": "src/"
     }
-  },
-  "extra": {
-        "branch-alias": {
-            "dev-master": "3.0.x-dev"
-        }
-    }
+  }
 }
